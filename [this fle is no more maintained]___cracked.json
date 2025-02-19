@@ -1,0 +1,370 @@
+[
+  {
+    "type": "WPA",
+    "date": 1687940062,
+    "essid": "Galaxy A13AA11",
+    "bssid": "8E:55:69:B8:C8:ED",
+    "key": "12345678",
+    "handshake_file": "hs/handshake_GalaxyA13AA11_8E-55-69-B8-C8-ED_2023-06-28T13-14-21.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1688025472,
+    "essid": "TECNO SPARK 6 Go",
+    "bssid": "6E:63:87:59:47:C1",
+    "key": "11111111",
+    "handshake_file": "hs/handshake_TECNOSPARK6Go_6E-63-87-59-47-C1_2023-06-29T12-57-50.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1688120964,
+    "essid": "Infinix NOTE 10",
+    "bssid": "1E:41:17:0F:E6:82",
+    "key": "123456789",
+    "handshake_file": "hs/handshake_InfinixNOTE10_1E-41-17-0F-E6-82_2023-06-30T15-29-22.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1688147939,
+    "essid": "V204321",
+    "bssid": "7E:1E:4E:A9:4C:23",
+    "key": "Aneela g",
+    "handshake_file": "hs/handshake_V204321_7E-1E-4E-A9-4C-23_2023-06-30T22-30-52.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1688738189,
+    "essid": "Infinix HOT 10S",
+    "bssid": "36:6F:56:34:C6:1F",
+    "key": "123456789",
+    "handshake_file": "hs/handshake_InfinixHOT10S_36-6F-56-34-C6-1F_2023-07-07T18-56-27.cap"
+  },
+  {
+    "type": "WPS",
+    "date": 1688811446,
+    "essid": "RANA SALMAN",
+    "bssid": "0C:0E:76:C3:48:66",
+    "pin": "27980545",
+    "psk": "rana786786"
+  },
+  {
+    "type": "WPA",
+    "date": 1689946853,
+    "essid": "vivo Y12A",
+    "bssid": "EE:B5:66:7C:3C:93",
+    "key": "12345678",
+    "handshake_file": "hs/handshake_vivoY12A_EE-B5-66-7C-3C-93_2023-07-21T18-40-51.cap"
+  },
+  {
+    "type": "WPS",
+    "date": 1690279296,
+    "essid": "Rana Salman Hameed ",
+    "bssid": "0C:0E:76:C3:48:66",
+    "pin": "27980545",
+    "psk": null
+  },
+  {
+    "type": "WPS",
+    "date": 1690390364,
+    "essid": "Rana Salman Hameed ",
+    "bssid": "0C:0E:76:C3:48:66",
+    "pin": "27980545",
+    "psk": "Kieekiee"
+  },
+  {
+    "type": "WPA",
+    "date": 1690568138,
+    "essid": "OPPO F11",
+    "bssid": "C2:B3:F6:F0:15:6F",
+    "key": "11223344",
+    "handshake_file": "hs/handshake_OPPOF11_C2-B3-F6-F0-15-6F_2023-07-28T23-15-36.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1690660867,
+    "essid": "OPPO F11",
+    "bssid": "C2:B3:F6:F0:15:6F",
+    "key": "13245678",
+    "handshake_file": "hs/handshake_OPPOF11_C2-B3-F6-F0-15-6F_2023-07-30T01-00-10.cap"
+  },
+  {
+    "type": "WPS",
+    "date": 1690879100,
+    "essid": "Rana Salman Hameed ",
+    "bssid": "0C:0E:76:C3:48:66",
+    "pin": "27980545",
+    "psk": "bindoooo"
+  },
+  {
+    "type": "WPS",
+    "date": 1691666688,
+    "essid": "Rana Salman Hameed ",
+    "bssid": "0C:0E:76:C3:48:66",
+    "pin": "27980545",
+    "psk": "bindo143"
+  },
+  {
+    "type": "WPA",
+    "date": 1708623104,
+    "essid": "vivo-1906",
+    "bssid": "2A:EE:CD:E5:FD:C2",
+    "key": "1234567891",
+    "handshake_file": "hs/handshake_vivo1906_2A-EE-CD-E5-FD-C2_2024-02-22T22-31-32.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1708233568,
+    "essid": "vivo-1906",
+    "bssid": "2A:EE:CD:E5:FD:C2",
+    "key": "1234567899",
+    "handshake_file": "hs/handshake_vivo1906_2A-EE-CD-E5-FD-C2_2024-02-18T10-19-17.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1707414474,
+    "essid": "NAQASH",
+    "bssid": "D8:32:14:A3:A7:28",
+    "key": "03000300",
+    "handshake_file": "hs/handshake_NAQASH_D8-32-14-A3-A7-28_2024-01-19T08-57-09.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1707245267,
+    "essid": "vivo-1906",
+    "bssid": "2A:EE:CD:E5:FD:C2",
+    "key": "12345678",
+    "handshake_file": "hs/handshake_vivo1906_2A-EE-CD-E5-FD-C2_2024-02-06T23-47-46.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1707229433,
+    "essid": "Rana Salman Hameed ",
+    "bssid": "0C:0E:76:C3:48:66",
+    "key": "22112211",
+    "handshake_file": "hs/handshake_RanaSalmanHameed_0C-0E-76-C3-48-66_2024-02-06T19-22-51.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1708706666,
+    "essid": "Unknown",
+    "bssid": "E6:4C:D0:00:46:7C",
+    "key": "12345678@",
+    "handshake_file": "hs/handshake_Unknown_E6-4C-D0-00-46-7C_2024-02-23T21-39-01.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1708706733,
+    "essid": "Rana Salman Hameed ",
+    "bssid": "0C:0E:76:C3:48:66",
+    "key": "12341234",
+    "handshake_file": "hs/handshake_RanaSalmanHameed_0C-0E-76-C3-48-66_2024-02-23T21-45-32.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1708710756,
+    "essid": "fouce ",
+    "bssid": "06:8C:9A:A5:C8:51",
+    "key": "87654321",
+    "handshake_file": "hs/handshake_fouce_06-8C-9A-A5-C8-51_2024-02-23T22-52-34.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1708772479,
+    "essid": "HareemSolutions",
+    "bssid": "A8:63:7D:92:6C:50",
+    "key": ".03456745891.",
+    "handshake_file": "hs/handshake_HareemSolutions_A8-63-7D-92-6C-50_2024-02-24T15-41-56.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1708852443,
+    "essid": "aHaDi_maLik",
+    "bssid": "C6:E1:A1:20:B9:35",
+    "key": "12345555",
+    "handshake_file": "hs/handshake_aHaDimaLik_C6-E1-A1-20-B9-35_2024-02-25T14-09-00.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1709218374,
+    "essid": "Infinix HOT 10S",
+    "bssid": "36:6F:56:34:C6:1F",
+    "key": "123456789",
+    "handshake_file": "hs/handshake_InfinixHOT10S_36-6F-56-34-C6-1F_2024-02-29T19-52-53.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1709228404,
+    "essid": "TECNO CAMON 20",
+    "bssid": "B2:3C:6A:EF:F1:07",
+    "key": "987654321",
+    "handshake_file": "hs/handshake_TECNOCAMON20_B2-3C-6A-EF-F1-07_2024-02-29T22-40-01.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1709228721,
+    "essid": "V2043_21",
+    "bssid": "3A:C8:4F:CF:49:FA",
+    "key": "123456789",
+    "handshake_file": "hs/handshake_V204321_3A-C8-4F-CF-49-FA_2024-02-29T22-45-19.cap"
+  },
+  {
+    "type": "WPS",
+    "date": 1709988439,
+    "essid": "Rana Salman Hameed ",
+    "bssid": "0C:0E:76:C3:48:66",
+    "pin": "27980545",
+    "psk": "12341234"
+  },
+  {
+    "type": "WPS",
+    "date": 1710254615,
+    "essid": "Rana Salman Hameed ",
+    "bssid": "0C:0E:76:C3:48:66",
+    "pin": "27980545",
+    "psk": "naaakaar"
+  },
+  {
+    "type": "WPA",
+    "date": 1711099685,
+    "essid": "Apna Pakge Wai Krwa Lo ",
+    "bssid": "F6:67:28:91:A4:03",
+    "key": "123456789",
+    "handshake_file": "hs/handshake_ApnaPakgeWaiKrwaLo_F6-67-28-91-A4-03_2024-03-22T14-28-03.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1711717686,
+    "essid": "Infinix HOT 30i",
+    "bssid": "0E:CC:15:4D:0B:11",
+    "key": "09876543",
+    "handshake_file": "hs/handshake_InfinixHOT30i_0E-CC-15-4D-0B-11_2024-03-29T18-08-01.cap"
+  },
+  {
+    "type": "WPS",
+    "date": 1712652614,
+    "essid": "Rana Salman Hameed ",
+    "bssid": "0C:0E:76:C3:48:66",
+    "pin": "27980545",
+    "psk": "00000000"
+  },
+  {
+    "type": "WPA",
+    "date": 1713636199,
+    "essid": "Infinix HOT 10S",
+    "bssid": "36:6F:56:34:C6:1F",
+    "key": "123456789",
+    "handshake_file": "hs/handshake_InfinixHOT10S_36-6F-56-34-C6-1F_2024-04-20T23-03-16.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1713788791,
+    "essid": "Subhan",
+    "bssid": "04:88:5F:6E:FC:E4",
+    "key": "10203040",
+    "handshake_file": "hs/handshake_Subhan_04-88-5F-6E-FC-E4_2024-04-22T17-26-26.cap"
+  },
+  {
+    "type": "WPS",
+    "date": 1715114308,
+    "essid": "Subhan",
+    "bssid": "04:88:5F:6E:FC:E4",
+    "pin": "35261544",
+    "psk": "10203040"
+  },
+  {
+    "type": "WPA",
+    "date": 1715844062,
+    "essid": "FyberNer",
+    "bssid": "94:0B:19:18:7E:08",
+    "key": "786786788",
+    "handshake_file": "hs/handshake_FyberNer_94-0B-19-18-7E-08_2024-05-13T18-45-25.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1698578526,
+    "essid": "RanaSalmanHameed",
+    "bssid": "0C:0E:76:C3:48:66",
+    "key": "112211221122",
+    "handshake_file": "hs/handshake_RanaSalmanHameed_0C-0E-76-C3-48-66_2023-10-29T15-52-05.cap"
+  },
+  {
+    "type": "WPS",
+    "date": 169552243,
+    "essid": "Rana Salman Hameed ",
+    "bssid": "0C:0E:76:C3:48:66",
+    "pin": "27980545",
+    "psk": "0123456789"
+  },
+  {
+    "type": "WPS",
+    "date": 1695608528,
+    "essid": "COMMON-MAN",
+    "bssid": "08:47:D0:B4:36:9C",
+    "pin": "18104608",
+    "psk": "Panasonic100"
+  },
+  {
+    "type": "WPA",
+    "date": 1695711606,
+    "essid": "OFFICE ",
+    "bssid": "08:AA:89:BA:7E:6C",
+    "key": "11223344",
+    "handshake_file": "hs/handshake_OFFICE_08-AA-89-BA-7E-6C_2023-09-26T12-00-04.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1695729237,
+    "essid": "GATETRIPS",
+    "bssid": "F0:25:8E:C0:C6:C8",
+    "key": "Letmein1",
+    "handshake_file": "hs/handshake_GATETRIPS_F0-25-8E-C0-C6-C8_2023-09-26T16-53-40.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1695730730,
+    "essid": "Microtech Stormfiber",
+    "bssid": "68:58:11:FF:80:70",
+    "key": "66666666",
+    "handshake_file": "hs/handshake_MicrotechStormfiber_68-58-11-FF-80-70_2023-09-26T17-18-47.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1695730963,
+    "essid": "2-Microtech Institute",
+    "bssid": "30:B5:C2:6F:FA:26",
+    "key": "66666666",
+    "handshake_file": "hs/handshake_2MicrotechInstitute_30-B5-C2-6F-FA-26_2023-09-26T17-22-41.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1696389132,
+    "essid": "HUAWEIY7Prime2018",
+    "bssid": "EC:89:14:71:FE:06",
+    "key": "1234567s",
+    "handshake_file": "hs/handshake_HUAWEIY7Prime2018_EC-89-14-71-FE-06_2023-09-24T01-42-59.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1731917453,
+    "essid": "TECNO CAMON 20",
+    "bssid": "0A:23:D8:9E:5B:12",
+    "key": "45454545",
+    "handshake_file": "hs/handshake_TECNOCAMON20_0A-23-D8-9E-5B-12_2024-11-18T13-10-34.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1731918092,
+    "essid": "NAQASH",
+    "bssid": "D8:32:14:A3:A7:28",
+    "key": "0011223344",
+    "handshake_file": "hs/handshake_NAQASH_D8-32-14-A3-A7-28_2024-11-04T12-55-34.cap"
+  },
+  {
+    "type": "WPA",
+    "date": 1731922145,
+    "essid": "Alizayandaizal",
+    "bssid": "38:BC:01:3E:0F:60",
+    "key": "4433221100",
+    "handshake_file": "hs/handshake_Alizayandaizal_38-BC-01-3E-0F-60_2024-11-04T02-28-38.cap"
+  }
+]
